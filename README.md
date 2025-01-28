@@ -15,7 +15,7 @@ This models can serve as an aid in medical diagnostics and show the decision tre
 Feel free to provide feedback or suggestions for improvement. You can reach me at Email: rofiqoazzahra17@gmail.com and Linkedin: https://www.linkedin.com/in/rofiqo-azzahra.
 
 
-
+## Links
 inspirated by: https://github.com/Muzann11/dibimbing-ds/blob/main/README.md
 
 datasets by: https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_breast_cancer.html#sklearn.datasets.load_breast_cancer
